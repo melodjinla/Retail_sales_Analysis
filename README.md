@@ -1,4 +1,5 @@
 Retail Sales Analysis
+
 This project explores transaction data from a UK-based online retailer. The dataset spans 2010 and 2011 and highlights key trends in revenue, product sales, and customer locations.
 
 Highlights
